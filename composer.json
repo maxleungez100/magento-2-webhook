@@ -3,7 +3,8 @@
   "description": "Magento 2 Webhook Extension",
   "require": {
     "mageplaza/module-core": "^1.4.12",
-    "liquid/liquid": "^1.4.8"
+    "liquid/liquid": "^1.4.8",
+    "magento/zendframework1": "^1.15"
   },
   "type": "magento2-module",
   "version": "4.1.3",
